@@ -1,0 +1,20 @@
+citHeader("To cite mrfit in publications, please use:")
+
+citEntry(entry = "Article",
+  author = personList(as.person("M. Mushfiqur Rashid"),as.person("Joseph W. McKean",as.person("John D. Kloke"))),
+  title = "R Estimates and Associated Inferences for Mixed Models With Covariates in a Multicenter Clinical Trial",
+  journal = "Statistics in Biopharmaceutical Research",
+  year = "2012",
+  volume = "4",
+  number = "1",
+  pages = "37--49",
+  textVersion = 
+  paste(
+"Rashid, M. M., McKean, J. W., & Kloke, J. D. (2012).",
+"R Estimates and Associated Inferences for Mixed Models With Covariates in a Multicenter Clinical Trial. Statistics in Biopharmaceutical Research,",
+"4(1), 37-49."
+)
+)
+
+
+
